@@ -1,7 +1,7 @@
 # Exercises_on_repeating_structures_and_lists
 Doing a list of exercises according to the things we have learned in class
 
-Lista:
+Lista
 1. Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
 2. Faça um Programa que leia um vetor de 10 números reais e mostre-os na ordem inversa.
 3. Faça um Programa que leia 4 notas, mostre as notas e a média na tela.
