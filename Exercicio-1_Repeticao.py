@@ -3,8 +3,8 @@ parada=False
 
 
 while parada==False:
-    nota=input()
-    if nota >= "0" and nota <= "10":
+    nota=int(input())
+    if (nota >= 0 and nota <= 10):
         print("Valor inserido válido.")
         parada=True
     else:
